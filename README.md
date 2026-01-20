@@ -1,7 +1,6 @@
 # Generative AI with Medeo AI
 
 
-
 ## Generative AI - content creation for websites
 
 It's interesting to see how much progress is being made and how quickly such content can be created but oh gosh a 71 second video with embedded slides and narration audio needed 80+ lines of input to 'present' 5 slides...
@@ -101,15 +100,17 @@ Final video: 71 seconds, 16:9 aspect ratio, silent video with subtitles
 ```
 
 
-
 ## Resulting Content
 
 [Content](content.mp4)
 
+<video src="https://github.com/leecowdrey/MedeoAI/raw/refs/heads/main/content.mp4" controls preload></video>
 
+
+## Gratitude
 
 Thanks for [Medeo AI](https://www.linkedin.com/in/leecowdrey/#) (https://medeo.app) for the free time
 
-
+## Disclaimer
 
 > The quality of the created content is purely down to myself and the 30 minutes spent learning and using Medeo AI
